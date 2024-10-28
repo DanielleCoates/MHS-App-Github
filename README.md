@@ -18,9 +18,6 @@ A mental health support app designed to provide users with resources, support, a
    - [Software Development Process](#software-development-process)
    - [Software Requirements Specification](#software-requirements-specification)
 5. [Installation Instructions](#installation-instructions)
-6. [Usage](#usage)
-7. [Contributing](#contributing)
-8. [License](#license)
 
 ## Project Members
 
@@ -49,7 +46,7 @@ This project is part of the CMSC 355 course and demonstrates the software develo
 
 ### Software Development Process
 
-The **Software Development Process** file in the `Project Files` folder contains a detailed diagram that visually portrays the app's development stages. This diagram includes the planning, design, implementation, testing, and maintenance phases, demonstrating the steps followed throughout the development cycle.
+The **Software Development Process** contains a detailed diagram that visually portrays the app's development stages. This diagram includes the planning, design, implementation, testing, and maintenance phases, demonstrating the steps followed throughout the development cycle.
 
 ### Software Requirements Specification
 

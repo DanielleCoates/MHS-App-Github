@@ -1,11 +1,3 @@
-My group members are:
-- Krishna Ganapathy
-- Carolyn Dang
-- Danielle Coates
-- Krisanny Salazar
-- Carlos Colon
-- Caitlin Hurst
-
 # MHS-App-CMSC-355-Project <img src="https://www.dubaicosmeticsurgery.com/wp-content/uploads/2023/06/mental.png" width="80" align="right"/>
 
 A mental health support app designed to provide users with resources, support, and a safe environment for their well-being.
